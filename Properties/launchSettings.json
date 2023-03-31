@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "SimpleFuncApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7093",
+      "launchBrowser": false,
+      "environmentVariables": {
+        "AZURE_FUNCTIONS_ENVIRONMENT": "Development",
+        "MyName": "Bob"
+      }
+    }
+  }
+}
